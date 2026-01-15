@@ -1,0 +1,13 @@
+body{
+    background-color: bisque; 
+    text-align: center;
+}
+div{
+    background-color: aqua;
+    margin: 15%;
+    text-align: justify;
+}
+
+hr.solid {
+    border-top: 3px solid  #929392c6;
+}
